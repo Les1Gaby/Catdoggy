@@ -7,7 +7,7 @@ Es una página diseñada por mi con el proposito de enseñar y mostrar los conce
 + *Google Fonts:* Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
+![Demo](imagenes/banner1.png)
 ![Demo](imagenes/Screenshot.png)
-![Demo](imagenes/Screenshott.png)
 ### Contacto
 Si te gustaría invitarme a colaborar en un proyecto, escríbeme por [LinkedIn](https://www.linkedin.com/in/lesly-gabriela-quiroz-bueno-b0b346183)
